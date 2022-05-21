@@ -1,0 +1,2 @@
+# DjangoPractice
+attempts to master
